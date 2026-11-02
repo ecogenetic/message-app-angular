@@ -148,4 +148,9 @@ For more information on the Angular CLI, use:
 ng help
 ```
 
-Or refer to the [Angular CLI Overview and Command Reference](https://angular.io/cli) page. 
+Or refer to the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## License
+
+This project is licensed under the [Apache License, Version 2.0](LICENSE). See the [LICENSE](LICENSE) file for the full license text.
+

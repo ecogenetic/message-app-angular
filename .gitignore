@@ -40,4 +40,18 @@ testem.log
 
 # System files
 .DS_Store
+**/.DS_Store
 Thumbs.db
+Desktop.ini
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+.project
+*.iml
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
